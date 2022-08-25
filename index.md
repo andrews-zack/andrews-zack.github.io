@@ -1,6 +1,6 @@
 # **Zack Andrews**
 
-###### A glimpse into my journey as I take on Bootcamp.
+###### Please keep hands and feet inside the ride at all times.
 
 
 [Blog Posts](/blog.md)    |   [README](/README.md)
