@@ -1,5 +1,5 @@
 ### Welcome to my blog.
-##### *Please keep hands and feet inside the ride at all times.*
+##### *A glimpse into my journey as I take on Bootcamp*
 
 
 #### *2022-08-25*
