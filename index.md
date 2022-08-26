@@ -1,4 +1,4 @@
-![Header](/img/ZA-header.png)
+![Header](/img/ZAA-header.png)
 
 ###### Please keep hands and feet inside the ride at all times.
 
