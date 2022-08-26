@@ -1,4 +1,4 @@
-![Header](/img/github-header-image.png)
+![Header](/img/ZA-header.png)
 
 ###### Please keep hands and feet inside the ride at all times.
 
