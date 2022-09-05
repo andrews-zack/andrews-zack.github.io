@@ -1,6 +1,16 @@
 ### Welcome to my blog.
 ##### *A glimpse into my journey as I take on Bootcamp*
 
+#### *2022-09-05*
+##### The Second Week
+Well, we just finished week two of bootcamp and everything has gone pretty well so far. With closing and moving out of my house, I have felt torn between getting that finished up and devoting the necessary time to work but I am looking forward to soley focusing on week three now.
+
+Coming into the bootcamp with no previous coding experience has helped a bit with expectations I have for myself. The old saying runs true, "You don't know what you don't know." There are obviously things I can look to in the future and be excited about having the ability to do, but for now I'm finding myself pretty content with learning it as it comes.
+
+
+
+<br>
+<br>
 
 #### *2022-08-25*
 ##### The First Week
