@@ -7,7 +7,9 @@ Well, we just finished week two of bootcamp and everything has gone pretty well 
 
 Coming into the bootcamp with no previous coding experience has helped a bit with expectations I have for myself. The old saying runs true, "You don't know what you don't know." There are obviously things I can look to in the future and be excited about having the ability to do, but for now I'm finding myself pretty content with learning it as it comes.
 
+Handling my time in an efficient way right now is the hardest part of bootcamp. I can imagine that different practices and methods will develop as we progress further. One other thing I'm struggling with is the amount of content to go through in a given week. Keeping track of everything we go over by the end of the Learn module is often a daunting task.
 
+There have been many occasions already when I've encountered a problem or felt stuck. The resources provided are often great references to look back on to give me a little kick in the right direction. The *help* channel in Slack is another great place to go to see if anyone else is hitting the same roadblock that I am, or even to reach out on something that I can't figure out. However, the best method I have for overcoming a problem is simply to keep trying different things. It can be a bit time consuming, but it is also the best way for me to learn the material.
 
 <br>
 <br>
