@@ -1,0 +1,19 @@
+#opbg {
+    background-color: rgba(255,255,255,.25)
+}
+
+.bi {
+    filter: invert(93%) sepia(58%) saturate(2%) hue-rotate(206deg) brightness(110%) contrast(101%);
+}
+
+#name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#job-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* #headshot {
+    height: 75vh;
+} */
