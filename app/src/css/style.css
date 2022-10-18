@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'caveatregular';
+    src: url('caveat-variablefont_wght-webfont.woff2') format('woff2'),
+         url('caveat-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 #opbg {
     background-color: rgba(255,255,255,.25)
 }
@@ -16,4 +24,16 @@
 
 .bi {
     height: 5vh;
+}
+
+#header {
+    background-color: #1E2D40;
+}
+
+#hero {
+    background-color: #c2dfea;
+}
+
+h1 {
+    font-family: 'caveatregular';
 }
