@@ -1,5 +1,10 @@
+import { useNavigate } from "react-router-dom"
+
 
 function Header() {
+
+    let navigate = useNavigate();
+
     return(
         <nav className="navbar navbar-expand-md" id="header">
             <div className="container">
@@ -9,11 +14,33 @@ function Header() {
                 </button>
                 <div className="collapse navbar-collapse" id="navmenu">
                     <ul className="navbar-nav nav-pills">
-                        <li className="nav-item"><button className="nav-link text-light">About Me</button></li>
-                        <li className="nav-item"><button className="nav-link text-light">Blog Posts</button></li>
-                        <li className="nav-item"><button className="nav-link text-light">Portfolio</button></li>
-                        <li className="nav-item"><button className="nav-link text-light">Resume</button></li>
-                        <li className="nav-item"><button className="nav-link text-light">Contact Me</button></li>
+                        <li className="nav-item">
+                            <button 
+                                className="nav-link text-light">About Me
+                            </button>
+                        </li>
+                        <li className="nav-item">
+                            <button 
+                                className="nav-link text-light">Blog Posts
+                            </button>
+                        </li>
+                        <li className="nav-item">
+                            <button 
+                                onClick={() => {navigate('/projects')}}
+                                className="nav-link text-light">Portfolio
+                            </button>
+                        </li>
+                        <li className="nav-item">
+                            <button 
+                                className="nav-link text-light">Resume
+                            </button>
+                        </li>
+                        <li className="nav-item">
+                            <button 
+                                onClick={() => {navigate('/contact')}}
+                                className="nav-link text-light">Contact Me
+                            </button>
+                        </li>
                     </ul>
                 </div>
             </div>
